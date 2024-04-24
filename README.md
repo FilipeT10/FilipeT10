@@ -22,8 +22,6 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeT10&show_icons=true&theme=dracula)
-
 ## Projetos pessoais
 
 - [BattleBoard](https://play.google.com/store/apps/details?id=com.tecsoftwar.battleboard)<br/>
