@@ -1,6 +1,6 @@
 ### Olá! me chamo Filipe Torres 🙋🏻‍♂️
 
-## Desenvolvedor Mobile - Pleno 👨🏻‍💻
+## Desenvolvedor Mobile - Pleno ||| 👨🏻‍💻
 
 #### Sou bacharel em Sistemas de Informação e atuo no desenvolvimento de aplicações móveis para Android e iOS, utilizando diversas ferramentas disponíveis no mercado. Estou sempre aberto a novos desafios e tenho paixão por aprender novas tecnologias.
 
